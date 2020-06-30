@@ -1,0 +1,179 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.header {
+    width: 100%;
+    height: 750px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.haf-width1 {
+    width: 36%;
+    float: left;
+    margin-left: 14%;
+}
+.haf-width2 {
+    width: 40%;
+    float: left;
+    margin-right: 10%;
+    overflow: hidden;
+}
+.haf-width2 img {
+    width: 100%;
+    margin-top: 90px;
+}
+.hello {
+    margin-top: 250px;
+    font-weight: 500;
+    font-size: 40px;
+    color: rgb(15, 14, 14, .9);
+    margin-bottom: 10px;
+}
+.name {
+    font-size: 50px;
+    color: #ee5253;
+    margin-top: 0px;
+}
+.lorem {
+    color: rgb(168, 159, 159);
+    margin: 40px 0px;
+    font-weight: 400;
+   
+}
+.btn {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: #ee5253;
+    border-radius: 5px;
+}
+
+.biography {
+    width: 100%;
+    height: 900px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.haf-width3 img {
+    width: 100%;
+    margin-top: 110px;
+}
+.haf-width3 {
+    width: 39%;
+    float: left;
+    margin-left: 12%;
+
+}
+.haf-width4 {
+    width: 35%;
+    float: left;
+    margin-left: 7%;
+    margin-right: 7%;
+
+    
+}
+.mywork {
+    width: 100%;
+    height: 550px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mid {
+    width: 80%;
+    margin: auto;
+}
+
+.mid h1 {
+    text-align: center;
+    margin: 80px 0px;
+}
+
+.work1{
+    width: 32%;
+    float: left;
+}
+.work2{
+    width: 32%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.work3{
+    width: 32%;
+    float: left;
+}
+.work1 img {
+    width: 100%;
+}
+.work2 img {
+    width: 100%;
+}
+
+.work3 img {
+    width: 100%;
+}
+
+.client {
+    width: 100%;
+    height: 600px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.client h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+.client h2 {
+    text-align: center;
+    font-size: 18px;
+
+}
+.client p {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(109, 103, 103);
+
+}
+#clientp {
+    font-size: 20px;
+    color:rgb(43, 35, 35);
+    margin-bottom: 80px;
+}
+.leave {
+    width: 50%;
+    background-color: #ee5253;
+    margin: auto;
+    padding: 40px 0px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.leave p {
+    
+    color: #fff;
+}
+.leave h2 {
+    color: #fff;
+}
+.btn-fotter a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+    background: linear-gradient(#e66465, #9198e5);
+    border-radius: 5px;
+    
+}
+.btn-fotter {
+    text-align: center;
+    margin-bottom: 50px;
+}
+#copy {
+    margin: 20px 0px;
+}
